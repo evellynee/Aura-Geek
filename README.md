@@ -8,8 +8,6 @@
 
 - Com arquivo estlio json junto com main.js busca em API Mockada 
 
-- Onde você pode  ver o projeto: [aqui](https://pedrozef.github.io/new-AluraGeek-Challege/)
-
 ## Sobre o desafio utilizamos:
 - HTML
 - CSS
